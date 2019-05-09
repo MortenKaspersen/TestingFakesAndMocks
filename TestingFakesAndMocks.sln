@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeControlSystem", "HomeControlSystem\HomeControlSystem.csproj", "{5C5C6BA7-EBFB-4962-B483-A168A6FD1E7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeControlSystem.Test.Unit", "HomeControlSystem.Test.Unit\HomeControlSystem.Test.Unit.csproj", "{9DA723C5-EA55-4302-9B54-A631028914DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C5C6BA7-EBFB-4962-B483-A168A6FD1E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C5C6BA7-EBFB-4962-B483-A168A6FD1E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C5C6BA7-EBFB-4962-B483-A168A6FD1E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA723C5-EA55-4302-9B54-A631028914DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA723C5-EA55-4302-9B54-A631028914DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA723C5-EA55-4302-9B54-A631028914DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA723C5-EA55-4302-9B54-A631028914DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

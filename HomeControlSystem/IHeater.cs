@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace HomeControlSystem
 {
-    public class Class1
+    public interface IHeater
     {
+        void TurnOn();
+
+        void TurnOff();
+
     }
 }
