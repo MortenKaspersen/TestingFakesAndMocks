@@ -71,10 +71,10 @@ namespace HomeControlSystem
             {
                 _heater.TurnOff();
             }
-            else
-            {
-                _heater.TurnOff();
-            }
+            //else
+            //{
+            //    _heater.TurnOff();
+            //}
         }
     }
 }
