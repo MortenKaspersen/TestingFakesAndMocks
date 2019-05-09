@@ -71,6 +71,9 @@ namespace HomeControlSystem
             {
                 _heater.TurnOff();
             }
+
+            //This below part was unable to being tested according to Jenkins Coverage
+
             //else
             //{
             //    _heater.TurnOff();
